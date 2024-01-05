@@ -1,0 +1,51 @@
+body {
+    background-color: #463d36;
+    color: #463d36;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* Typography */
+.color-heading {
+    color: #a61922;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.main-heading {
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 0;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.banner h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: whitesmoke;
+
+}
+
+/*Layout */
+
+.container {
+    width: 600px;
+    margin: 100px auto;
+    background-color: whitesmoke;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.banner {
+    background: #463d36;
+    padding: 15px 30px;
+    width: fit-content;
+    text-transform: uppercase;
+}
